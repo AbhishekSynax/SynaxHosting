@@ -1,4 +1,6 @@
 pyTelegramBotAPI
 psutil
+python-dotenv
 flask
+gunicorn
 requests
