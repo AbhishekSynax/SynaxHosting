@@ -45,7 +45,7 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration FROM .env FILE ---
-TOKEN = os.getenv('TOKEN', '8425924409:AAG1joJK-Jg8vXaNn-C45r45srPH9tNEFGM')
+TOKEN = os.getenv('TOKEN', '8425924409:AAGgGQl72N_lxxl7cfsmjJfodgxRCKUT2SM')
 OWNER_ID = int(os.getenv('OWNER_ID', 6068463116 ))
 ADMIN_ID = int(os.getenv('ADMIN_ID', 6068463116))
 YOUR_USERNAME = os.getenv('YOUR_USERNAME', '@synaxchatrobot')
